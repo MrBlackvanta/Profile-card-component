@@ -1,4 +1,4 @@
-# Frontend Mentor - Profile card component
+# Frontend Mentor - Profile 
 
 ![Design preview for the Profile card component coding challenge](desktop-preview.jpg)
 
